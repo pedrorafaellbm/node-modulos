@@ -1,0 +1,19 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "projeto inicial rodando um teste com node",
+  "main": "modulo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrorafaellbm/node-modulos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrorafaellbm/node-modulos/issues"
+  },
+  "homepage": "https://github.com/pedrorafaellbm/node-modulos#readme"
+}
